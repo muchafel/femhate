@@ -1,6 +1,6 @@
 # FEMHATE dataset
 
-This repository is the home the FEMHATE dataset.
+This repository is the home of the FEMHATE dataset.
 
 __Background__
 
