@@ -36,7 +36,7 @@ If you want to use the FEMHATE dataset, please cite:
 >@inproceedings{wojatzki2018femhate, <br />
  > &nbsp; title={Do Women Perceive Hate Differently: Examining the Relationship Between Hate Speech, Gender, and Agreement Judgments},<br />
  > &nbsp; author={Wojatzki, Michael and Horsmann, Tobias and Gold, Darina and Zesch, Torsten},<br />
- > &nbsp; booktitle={Proceedings of the SKOnvens},<br />
+ > &nbsp; booktitle={Proceedings of the Konvens},<br />
  > &nbsp; year={2018}<br />
 >}
 
