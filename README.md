@@ -1,8 +1,9 @@
-FEMHATE dataset
+# FEMHATE dataset
 
 This repository is the home the FEMHATE dataset.
 
 __Background__
+
 The question of whether one perceives something as hate speech is substantially influenced by whether oneself belongs to the targeted group or by whether one agrees or disagrees with the statement to evaluate.
 For instance, it is likely that females perceive the statement “women have smaller brains than men” as more hateful than men.
 Furthermore, if anyone should strangely have the supposition that women really have smaller brains, then this person will likely not attribute much hate to this statement.
@@ -30,5 +31,13 @@ _Under the following terms:_
 
 * NonCommercial — You may not use the material for commercial purposes.
 
+__How to cite?__
+If you want to use the FEMHATE dataset, please cite:
+>@inproceedings{wojatzki2018femhate, <br />
+ > &nbsp; title={Do Women Perceive Hate Differently: Examining the Relationship Between Hate Speech, Gender, and Agreement Judgments},<br />
+ > &nbsp; author={Wojatzki, Michael and Horsmann, Tobias and Gold, Darina and Zesch, Torsten},<br />
+ > &nbsp; booktitle={Proceedings of the SKOnvens},<br />
+ > &nbsp; year={2018}<br />
+>}
 
-If you want to use the FEMHATE dataset please cite:
+
